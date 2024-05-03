@@ -23,7 +23,7 @@ function Home2() {
               Let me introduce myself, 
               I'm a Software Developer who has experience in Product Management as well.
               I love Coding, UI/UX Designing, Content Creation.
-              I think that's enough for me..🤷‍♂️
+              I think that's enough about me me..🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>

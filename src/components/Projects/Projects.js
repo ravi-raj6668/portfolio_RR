@@ -8,6 +8,9 @@ import editor from "../../Assets/Projects/researchppr.png";
 import chatify from "../../Assets/Projects/ihelp.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/sqleditor.png";
+import content from "../../Assets/Projects/content1.jpeg";
+import ui from "../../Assets/Projects/ui.png";
+
 
 function Projects() {
   return (
@@ -51,6 +54,28 @@ function Projects() {
               description="This is my research paper. It tells the global human impact on human kind for working remotely in both positive and negative aspects. Also describes how to secure data from threatning from the unauthorized sources and security measure for the companies providing work from home."
               ghLink="https://github.com/theleocodes/Research-paper-"
               demoLink="https://github.com/theleocodes/Research-paper-"              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ui}
+              isBlog={false}
+              title="UI Design"
+              description="This is a UI Design for Signup Page using Figma."
+              ghLink="https://drive.google.com/drive/folders/12kWh8g3Z8vWIE-w_0c_HG8NxJyr5oAyt?usp=sharing"
+              demoLink="https://drive.google.com/drive/folders/12kWh8g3Z8vWIE-w_0c_HG8NxJyr5oAyt?usp=sharing"              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={content}
+              isBlog={false}
+              title="Content"
+              description="This the content which I've created for Topmate's Topbot using Canva and its graphics."
+              ghLink="https://drive.google.com/file/d/1KKyIumh19Y9QbJbnkWpPtWjnJzlWJxZD/view?usp=sharing"
+              demoLink="https://drive.google.com/file/d/1KKyIumh19Y9QbJbnkWpPtWjnJzlWJxZD/view?usp=sharing"              
             />
           </Col>
 

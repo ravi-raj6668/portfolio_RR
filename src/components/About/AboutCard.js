@@ -14,8 +14,9 @@ function AboutCard() {
             I am currently 8th semester student at Manipal University Jaipur, who is looking for opportunity.
             <br />
             I'm pursing B.Tech in Computer Science and Engineering with minor specialization in cloud computing.
+            <p>Designing is my favourite part, its my passion.</p>
             <br />
-            <br />
+            
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
