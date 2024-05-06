@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Made with ❤️ by Tanvi </h3>
+          <h3>Made with 🧑‍💻 by Ravi </h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} TS</h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/theleocodes"
+                href="https://github.com/ravi-raj6668"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://github.com/theleocodes"
+                href="https://github.com/ravi-raj6668"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/tanvi-saini-0239b5213/"
+                href="https://www.linkedin.com/in/ravi-raj-8414bb141/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/tanvi-saini-0239b5213/"
+                href="https://www.linkedin.com/in/ravi-raj-8414bb141/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
