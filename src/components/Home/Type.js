@@ -8,8 +8,8 @@ function Type() {
         strings: [
           "Software Engineer",
           "Java Software Developer",
-          "Mern Stack Developement Learner",
-          "Microservices Developer"
+          "SpringBoot Microservices Developer",
+          "Mern Stack Developement Learner"
         ],
         autoStart: true,
         loop: true,
